@@ -1,23 +1,8 @@
-<!-- ===== Header ===== -->
-<div align="center">
-
 # 👋 Hi, I'm YouSangSon
 
 Backend / Platform Engineer · Distributed Systems · Cloud Native
 
-<!-- Optional: typing banner (원하면 이름/문구만 수정) -->
-<a href="https://github.com/YouSangSon">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Backend+%26+Platform+Engineer;Go+%7C+Kotlin+%7C+Python+%7C+Flutter;Kubernetes+%7C+Kafka+%7C+GCP;Build+reliable+systems+at+scale" />
-</a>
-
-<br/>
-
-<!-- profile view counter -->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=YouSangSon&icon=0&color=0" />
-</a>
-
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=YouSangSon&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 
 ---
 
@@ -62,41 +47,14 @@ Backend / Platform Engineer · Distributed Systems · Cloud Native
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- 1) Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YouSangSon&theme=radical&hide_border=false&show_icons=true" />
-
-<!-- 2) Top langs -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouSangSon&theme=radical&hide_border=false&layout=compact" />
-
-<br/>
-
-<!-- 3) Streak -->
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YouSangSon&theme=radical&hide_border=false" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=YouSangSon&theme=radical&hide_border=false&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YouSangSon&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YouSangSon&theme=radical&hide_border=false)
 
 ---
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<!-- Optional: pinned repos (원하는 repo로 바꿔서 사용) -->
-## 📌 Pinned Repos
-
-<div align="center">
-  <a href="https://github.com/YouSangSon">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=YouSangSon&repo=REPO_NAME_1&theme=radical" />
-  </a>
-  <a href="https://github.com/YouSangSon">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=YouSangSon&repo=REPO_NAME_2&theme=radical" />
-  </a>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
