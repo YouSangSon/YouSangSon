@@ -45,14 +45,6 @@ Backend / Platform Engineer · Distributed Systems · Cloud Native
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YouSangSon&theme=radical&hide_border=false&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YouSangSon&theme=radical&hide_border=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YouSangSon&theme=radical&hide_border=false)
-
----
-
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
