@@ -82,38 +82,6 @@ _I build distributed, cloud-native backends — and lately, memory & impact infr
 
 ---
 
-## 🚀 Featured Projects · 대표 프로젝트
-
-### 🤖 AI · Agent Tooling
-
-| Project | Stack | What it does |
-|---|---|---|
-| **[context-forge](https://github.com/YouSangSon/context-forge)** | TypeScript · MCP · Postgres · Qdrant · ONNX | 코딩 에이전트를 위한 **로컬·무료 퍼시스턴트 메모리**. 세션 간 결정·제약·요약을 검색 가능하게 저장. API 키 없이 `$0`, 데이터는 내 서버에. <br/>_Self-hosted persistent memory for AI coding agents — local embeddings, no API key._ |
-| **[Parallax](https://github.com/YouSangSon/Parallax)** | TypeScript · SQLite · sqlite-vec · MCP | 변경이 **무엇을 깨뜨릴 수 있는지** 로컬 코드 그래프로 알려주는 impact intelligence 도구. 에이전트가 코드를 고치기 전에 영향받는 테스트·consumer·문서를 증거와 함께 제시. |
-| **[Mimir](https://github.com/YouSangSon/Mimir)** | Python · GitHub Actions · git-as-DB | KR/US 시장 공개 데이터(공시·시세·매크로·뉴스)를 **무료로 수집 → 시계열 저장 → ⭐ 인사이트·일일 리포트(Telegram)** 로 변환하는 파이프라인. `122 tests · 91% cov · mypy strict`. |
-
-### ⚙️ Backend · Platform
-
-| Project | Stack | What it does |
-|---|---|---|
-| **[database-service](https://github.com/YouSangSon/database-service)** | Go · DDD · Clean Architecture | 엔터프라이즈급 **범용 멀티 DB 서비스**. `X-Database-Type` 헤더로 런타임 DB 선택(Mongo/PostgreSQL/MySQL), Repository 패턴, **Kafka CDC** 기반 이벤트 아키텍처. |
-| **[rest_server](https://github.com/YouSangSon/rest_server)** | Kotlin · Spring Boot 3 · Java 21 | 엔터프라이즈 REST 서버 — **자동 투자 봇**(Upbit/Binance/KIS·ML 전략·백테스팅) + **투자 SNS 플랫폼**. CI/CodeQL/Docker 파이프라인 포함. |
-| **[media-server](https://github.com/YouSangSon/media-server)** | Go · Gin · Pion (WebRTC) | `gin + pion + imaging` 으로 구성한 실시간 **미디어 서버**. |
-| **[auth_server](https://github.com/YouSangSon/auth_server)** | Go · Fiber · OAuth2 | Fiber 기반 **Google OAuth2** 인증 서버. |
-| **[publish_to_async_messaging](https://github.com/YouSangSon/publish_to_asynchronous_messaging_service)** | Go · Pub/Sub | 비동기 메시징 서비스로 이벤트를 발행하는 **publisher** 구현. |
-| **[test_tools](https://github.com/YouSangSon/test_tools)** | k6 · Grafana · InfluxDB | Load/Stress/Spike/Soak 4종 시나리오를 갖춘 **성능 테스트 스위트**. Docker·CI/CD·실시간 모니터링 통합. |
-
-### 📱 Full-Stack · Apps
-
-| Project | Stack | What it does |
-|---|---|---|
-| **[sns_project](https://github.com/YouSangSon/sns_project)** | Flutter · Dart · Supabase / Kotlin | Clean Architecture + Riverpod 으로 **Web·Android·iOS 단일 코드베이스** 풀스택 소셜 네트워크. |
-| **[lotto_application](https://github.com/YouSangSon/lotto_application)** | Flutter · Python(ML) | Flutter 앱 + [lotto_app_ml](https://github.com/YouSangSon/lotto_app_ml) ML 모델로 구성한 풀스택 로또 프로젝트. |
-
-> 일부 작업(예: `nebula`, `simple_bank`)은 비공개 저장소에서 진행 중입니다. · _Some work lives in private repos._
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -124,26 +92,6 @@ _I build distributed, cloud-native backends — and lately, memory & impact infr
 <br/>
 
 <img height="165" src="https://streak-stats.demolab.com/?user=YouSangSon&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YouSangSon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YouSangSon&theme=tokyo-night&hide_border=true&area=true&custom_title=YouSangSon's%20Contribution%20Graph)
 
 </div>
 
